@@ -1,6 +1,6 @@
 # Jenkins + Docker + Google Cloud SDK
 
-This project is used to run a docker container which includes **Jenkins**, **Docker**(docker in docker :sunglasses: `:sunglasses:`) and **Google Cloud SDK**.
+This project is used to run a docker container which includes **Jenkins**, **Docker**(docker in docker :sunglasses:) and **Google Cloud SDK**.
 
 To get it working
 
