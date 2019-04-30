@@ -8,6 +8,7 @@ To get it working
 
 2. Clone the project
 
+
 3. Inside the project's root directory, run the following command
 
 ```bash
